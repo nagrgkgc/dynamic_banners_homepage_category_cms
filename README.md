@@ -17,3 +17,6 @@
 - s3 push support. code has been commented but push to var folder. enable s3 to access to s3 drop.
 
 please resolve if you find any issue or let me know if any help required. it handles more than what is mentioned here. 
+
+
+any help required:contact:nagrgk@gmail.com
